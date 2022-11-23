@@ -1,0 +1,3 @@
+#!/bin/sh
+
+qemu-system-x86_64 -device usb-host,hostbus=4,hostport=2 -device format=raw,file=/home/salman1567/Downloads/anarch-vm.raw -m 16G -smp $(nproc) -cpu host -machine type=q35 -enable-kvm -vga virtio -display spice-app -device ich9-intel-hda -device hda-output

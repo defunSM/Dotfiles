@@ -1,0 +1,2 @@
+/sbin/ar qc liblgmp.a CMakeFiles/lgmp.dir/src/host.c.o CMakeFiles/lgmp.dir/src/client.c.o CMakeFiles/lgmp.dir/src/status.c.o
+/sbin/ranlib liblgmp.a

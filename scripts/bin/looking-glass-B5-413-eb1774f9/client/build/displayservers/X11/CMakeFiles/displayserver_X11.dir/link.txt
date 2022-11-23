@@ -1,0 +1,2 @@
+/sbin/ar qc libdisplayserver_X11.a CMakeFiles/displayserver_X11.dir/x11.c.o CMakeFiles/displayserver_X11.dir/atoms.c.o CMakeFiles/displayserver_X11.dir/clipboard.c.o
+/sbin/ranlib libdisplayserver_X11.a

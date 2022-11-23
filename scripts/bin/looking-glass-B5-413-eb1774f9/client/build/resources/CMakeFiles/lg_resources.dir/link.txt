@@ -1,0 +1,2 @@
+/sbin/ar qc liblg_resources.a "lg-logo.svg.o" status/spice.svg.o status/recording.svg.o
+/sbin/ranlib liblg_resources.a

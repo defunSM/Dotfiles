@@ -1,0 +1,2 @@
+/sbin/ar qc libaudiodev_PulseAudio.a CMakeFiles/audiodev_PulseAudio.dir/pulseaudio.c.o
+/sbin/ranlib libaudiodev_PulseAudio.a

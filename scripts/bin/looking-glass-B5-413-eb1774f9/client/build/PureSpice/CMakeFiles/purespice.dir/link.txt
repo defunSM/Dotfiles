@@ -1,0 +1,2 @@
+/sbin/ar qc libpurespice.a CMakeFiles/purespice.dir/src/ps.c.o CMakeFiles/purespice.dir/src/log.c.o CMakeFiles/purespice.dir/src/rsa.c.o CMakeFiles/purespice.dir/src/queue.c.o CMakeFiles/purespice.dir/src/channel.c.o CMakeFiles/purespice.dir/src/channel_main.c.o CMakeFiles/purespice.dir/src/channel_inputs.c.o CMakeFiles/purespice.dir/src/channel_playback.c.o CMakeFiles/purespice.dir/src/channel_record.c.o CMakeFiles/purespice.dir/src/channel_display.c.o CMakeFiles/purespice.dir/src/agent.c.o
+/sbin/ranlib libpurespice.a

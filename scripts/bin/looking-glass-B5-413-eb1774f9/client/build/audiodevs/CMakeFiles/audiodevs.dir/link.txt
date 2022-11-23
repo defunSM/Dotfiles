@@ -1,0 +1,2 @@
+/sbin/ar qc libaudiodevs.a CMakeFiles/audiodevs.dir/__/src/audiodev.c.o
+/sbin/ranlib libaudiodevs.a
